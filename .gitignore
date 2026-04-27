@@ -1,0 +1,6 @@
+# Raycast exports should be encrypted .rayconfig files.
+home/dot_config/raycast/**/*.json
+home/dot_config/raycast/**/*.jsonl
+home/dot_config/raycast/**/*.sqlite
+home/dot_config/raycast/**/*.sqlite3
+home/dot_config/raycast/**/*.db
